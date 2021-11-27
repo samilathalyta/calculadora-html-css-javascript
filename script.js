@@ -29,8 +29,8 @@ function calc(){
     if(resultado){
         document.querySelector('.resultado').innerHTML = eval(resultado)
     }
-
 }
+
 
 
 
